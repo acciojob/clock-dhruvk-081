@@ -1,6 +1,5 @@
 //your JS code here. If required.
-let dateTime = document.querySelector("#date");
-
+let dateTime = document.querySelector("#timer");
 
 setInterval(()=>{
 let val = new Date().toLocaleString();
